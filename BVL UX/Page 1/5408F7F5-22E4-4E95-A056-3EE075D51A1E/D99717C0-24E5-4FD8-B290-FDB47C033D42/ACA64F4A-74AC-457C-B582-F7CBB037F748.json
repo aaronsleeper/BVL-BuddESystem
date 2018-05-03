@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "ACA64F4A-74AC-457C-B582-F7CBB037F748",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9FA2B171-7B0A-45F0-9610-133BF011BD11",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "617B283C-0C78-4CF6-BD61-DDB977E2877C",
+    "height": 10,
+    "width": 10,
+    "x": 103,
+    "y": 3
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "ic_account_balance_wallet copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "83EBE07E-990F-4065-AD68-F020D6EC5434",
+      "overrideName": "5B3289D9-B50F-4D65-AFDD-0F2F3C5AF095_symbolID",
+      "value": "E0B6D259-26C3-47EF-B9D4-F239EC38F1CF"
+    }
+  ],
+  "overrides": {
+    "5B3289D9-B50F-4D65-AFDD-0F2F3C5AF095": {
+      "symbolID": "E0B6D259-26C3-47EF-B9D4-F239EC38F1CF"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "83A0A0D8-9564-40A5-9CF0-E45D03428C17",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "0E248BA5-F4BF-47C9-8023-659A687C5C31",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
