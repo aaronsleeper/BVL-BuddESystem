@@ -84,11 +84,43 @@
     },
     {
       "class": "text",
+      "id": "794C4656-6A1F-442D-88AF-BB39A2C98844"
+    },
+    {
+      "class": "text",
+      "id": "309E86D3-6785-4F28-9628-9A5FD3CA99C8"
+    },
+    {
+      "class": "text",
+      "id": "2BE7A81A-09D2-4529-BE8D-AB88798264CD"
+    },
+    {
+      "class": "text",
+      "id": "ED5A0F35-839C-48C2-8B2B-BB6085805BB2"
+    },
+    {
+      "class": "text",
       "id": "C23717F9-333B-4E71-9A74-9EA0430736FA"
     },
     {
       "class": "text",
       "id": "B811B7F7-4342-4066-B292-914A03C40BD5"
+    },
+    {
+      "class": "text",
+      "id": "9AC67DF1-95F9-4F4E-9F3E-870DAC777C64"
+    },
+    {
+      "class": "text",
+      "id": "E319CCF6-4B6E-4201-8A98-79A485AD1BA7"
+    },
+    {
+      "class": "text",
+      "id": "7B47224F-3842-4188-9B40-74C904FECB33"
+    },
+    {
+      "class": "text",
+      "id": "2C68495B-F472-4B6E-B977-F083139C2D43"
     },
     {
       "class": "text",
@@ -109,6 +141,102 @@
     {
       "class": "text",
       "id": "3AA213D7-F892-4CB2-8345-B355FF7AF524"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "78E0DB2B-6580-4C21-BDAA-54AD537389AA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AC23345C-35C7-4998-A8DC-4F3B4E558DA8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "45F4154E-B6E8-476F-9344-DCD3679C07AC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "70D9F8A9-D0D8-4678-8A4F-20F8CAC98AD1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F239B7C5-EA64-489E-8F3C-46FBC3B5AB67"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A289365D-E19F-4150-B44D-F8AA84D724E4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B6B7F54E-807F-41BE-901A-F0FD8FE8CFC6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "49B4D38B-2ACD-444A-833B-7638C94244B8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "838BECB7-FC07-49DD-8C8D-F54CB9DD780C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "55451027-1F87-4BCD-A79A-7DC6634FC3A7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7C58FB51-CC9A-464E-BB85-497D3D16BE2F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "584481EB-CFCA-4FB9-9F96-01B48A2D0258"
+    },
+    {
+      "class": "text",
+      "id": "6D499323-EBCF-41DF-8FEC-EC9093ACFF5F"
+    },
+    {
+      "class": "text",
+      "id": "4D786D2E-D00A-45F4-9F18-C6079EEA7AFD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BB62E1DA-AB36-45F1-8C35-0BD5E5BC6C8A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5DF30CB9-9981-4810-81BC-064948188181"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "514757F3-3A59-4C33-ABD8-17AF1AF106F4"
+    },
+    {
+      "class": "text",
+      "id": "50898192-C64B-45BC-B7F9-88A1FAE4F728"
+    },
+    {
+      "class": "text",
+      "id": "A31B24D8-3153-4BA1-A875-73F9A5C27C6F"
+    },
+    {
+      "class": "text",
+      "id": "ABC8477B-E601-4D4A-8D7F-2D8F237EA639"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "98C0773A-479F-4208-85A6-9B29B79CB318"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9DC99992-6A3A-4180-A899-849B882146BD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "ACB93B3B-BC2F-4D3C-A632-FD5A693C985C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "34A79A82-63FA-4A66-B523-D0B26190CF50"
     }
   ],
   "name": "Desktop HD",

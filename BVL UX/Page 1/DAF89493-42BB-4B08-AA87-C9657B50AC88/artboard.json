@@ -43,6 +43,10 @@
   "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "shapeGroup",
+      "id": "1389D4C0-B054-4D15-B5A2-6A3BFE8C5FF8"
+    },
+    {
       "class": "group",
       "id": "F860AA5B-E48C-42EE-9E7C-0943C24CF101"
     },
@@ -63,48 +67,12 @@
       "id": "D865F894-2E5A-4C62-9DB3-DA94CA335A2E"
     },
     {
-      "class": "text",
-      "id": "69A527D5-3603-4A31-ABC0-7A9671504B02"
+      "class": "shapeGroup",
+      "id": "78708436-6922-417A-A3E3-AD1468B6033A"
     },
     {
       "class": "text",
       "id": "CBF33FF1-04B4-4F87-B814-498055FA0957"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "C7DF8753-2729-4B59-A3DA-74FB9AD9CED0"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "E95D5E97-C94A-4557-951E-31FC59BDBAB4"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "10A799D2-26D4-4648-B7DF-552EBADCA018"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "CB71BCC4-37D0-44C2-BD34-CC990C8BD0C1"
-    },
-    {
-      "class": "group",
-      "id": "C71394AB-6D59-4B86-8F15-436533A70EFC"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "82896678-151B-4BD6-B898-85B43090C795"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "BCC5224A-850F-41EC-88E5-C13A4DE0BB42"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "ADE04990-92EF-47F4-BB7C-0B35AB8D9C70"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "4E326C3E-7477-4454-89BA-8B26C90C9500"
     },
     {
       "class": "group",
@@ -116,15 +84,35 @@
     },
     {
       "class": "group",
-      "id": "30382F07-8334-4FB4-AF57-93EFF7988035"
+      "id": "8ECC849D-86CA-49D9-BB98-98C1C1F2AE3A"
     },
     {
-      "class": "symbolInstance",
-      "id": "9013092A-9326-4066-BD78-85628F29CCEA"
+      "class": "group",
+      "id": "A2BA2543-8D5B-4BC5-AFA9-CC0B6CBE6D5B"
     },
     {
-      "class": "text",
-      "id": "69700B47-1457-4324-BCD8-1C506C575934"
+      "class": "group",
+      "id": "CE7728E8-5543-4BF2-84EA-FECCDA2F2B6E"
+    },
+    {
+      "class": "group",
+      "id": "EE9D8B6E-BF6B-4C29-9425-AE5CE8F801C9"
+    },
+    {
+      "class": "group",
+      "id": "CD0B3787-C26D-4F5F-AE3B-74C709B89379"
+    },
+    {
+      "class": "group",
+      "id": "37E1B583-6680-4C4B-BA7F-573935EEF3A5"
+    },
+    {
+      "class": "group",
+      "id": "B7FACDA1-2A8B-49C1-8D67-DBA9E6E46DD5"
+    },
+    {
+      "class": "group",
+      "id": "52E25D58-268F-497B-B674-5BC67FD66E65"
     }
   ],
   "name": "Move Details",
