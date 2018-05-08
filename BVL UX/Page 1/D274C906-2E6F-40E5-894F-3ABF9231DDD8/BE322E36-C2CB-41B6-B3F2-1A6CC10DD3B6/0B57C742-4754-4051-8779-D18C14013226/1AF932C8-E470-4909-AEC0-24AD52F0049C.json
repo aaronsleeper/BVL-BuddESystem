@@ -1,0 +1,137 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "1AF932C8-E470-4909-AEC0-24AD52F0049C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9A076E79-0B74-4709-888A-8118C3C69331",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "77DAF4EF-7164-442B-B1E2-D8AE280C6B5E",
+    "height": 20,
+    "width": 20,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "ic_account_balance_wallet copy 7",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B9E3725A-422D-47A6-873F-70897F7B9E6B",
+      "overrideName": "7F3E32DA-C4FB-44FD-B037-49AB4CF7B12B_symbolID",
+      "value": "78A6BB57-BDEA-4BE6-B9A0-65144D5911B4"
+    }
+  ],
+  "overrides": {
+    "7F3E32DA-C4FB-44FD-B037-49AB4CF7B12B": {
+      "symbolID": "78A6BB57-BDEA-4BE6-B9A0-65144D5911B4"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E53E83F7-6B0F-4422-ABF5-6A0406335479",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 6,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "spread": 8
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "symbolID": "2C91B77D-7FF9-4021-9524-F7B2DAFB4088",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 20,
+            "enabled": 1,
+            "modelID": "constraint_eb37fd31-464d-4fcb-9e68-f078caabb590",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 20
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_e4cff855-e7cd-49be-827d-ef0ffc207da6",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        },
+        "stashedSizeH": [
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_d58739f1-a530-45eb-a15e-ead31c6b4ccc",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_c2d8c17a-abb1-43a2-a93f-1cf8aff0e306",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          }
+        ],
+        "stashedSizeV": [
+          {
+            "constant": 20,
+            "enabled": 0,
+            "modelID": "constraint_64e7cb00-9c7b-4af1-bc65-77429034454d",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          {
+            "constant": 20,
+            "enabled": 0,
+            "modelID": "constraint_12e9da5f-0b5b-4e53-858f-d0982a1d47a8",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          }
+        ]
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,101 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "A577847D-6AB9-4715-846F-C41B0347CCC6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8C3C2E11-E2EC-494C-8B00-E3D485374D45",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "06B2180F-5B45-4CAF-9EFB-650CFCC1AEB7",
+    "height": 60,
+    "width": 60,
+    "x": 1101,
+    "y": 861
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": true,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "ic_account_balance_wallet copy 7",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B7A7520A-E81F-4E31-A0B9-78B9599C8797",
+      "overrideName": "0F37DCC8-2180-4DB4-99A3-7B5DF640BF24_symbolID",
+      "value": "F0A1B5EB-81DC-4F8F-86E7-A3C8BC838AC5"
+    }
+  ],
+  "overrides": {
+    "0F37DCC8-2180-4DB4-99A3-7B5DF640BF24": {
+      "symbolID": "F0A1B5EB-81DC-4F8F-86E7-A3C8BC838AC5"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": -90,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "30002F4C-CD73-4359-B33F-F98ABD2266F2",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 6,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "spread": 8
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "symbolID": "FA3E47D3-54DC-4116-8B50-54501DCFDCE0",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 20,
+            "enabled": 1,
+            "modelID": "constraint_f47d609d-1fdc-4e56-a94c-16525ab1024d",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 20
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_8405b0a2-d418-4463-9a6d-4a60e5cb57a8",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
